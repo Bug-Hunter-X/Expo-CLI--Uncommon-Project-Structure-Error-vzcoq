@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error encountered when using the Expo CLI. The error is related to how Expo handles projects with complex or unusual file structures.  The `bug.js` file shows a project setup that might trigger the error. The `bugSolution.js` file provides a potential solution or workaround.
